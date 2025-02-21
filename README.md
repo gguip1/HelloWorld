@@ -23,3 +23,6 @@
 - [ ] Ruby
 - [ ] Swift
 - [ ] Objective-C
+
+## 🛠 Contributing
+이 프로젝트에 기여하고 싶다면, [CONTRIBUTING.md](CONTRIBUTING.md) 파일을 확인해 주세요.
