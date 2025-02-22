@@ -19,7 +19,7 @@
 - [X] Python
 - [X] JavaScript
 - [X] C#
-- [ ] PHP
+- [X] PHP
 - [ ] Ruby
 - [ ] Swift
 - [ ] Objective-C
