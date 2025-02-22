@@ -20,7 +20,7 @@
 - [X] JavaScript
 - [X] C#
 - [X] PHP
-- [ ] Ruby
+- [X] Ruby
 - [ ] Swift
 - [ ] Objective-C
 
