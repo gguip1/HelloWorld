@@ -26,6 +26,7 @@
 - [X] Lua
 - [X] TypeScript
 - [X] Kotlin
+- [X] Dart
 
 ## 🛠 Contributing
 이 프로젝트에 기여하고 싶다면, [CONTRIBUTING.md](docs/CONTRIBUTING.md) 파일을 확인해 주세요.
