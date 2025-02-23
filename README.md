@@ -21,7 +21,7 @@
 - [X] C#
 - [X] PHP
 - [X] Ruby
-- [ ] Swift
+- [X] Swift
 - [ ] Objective-C
 - [X] Lua
 - [X] TypeScript
